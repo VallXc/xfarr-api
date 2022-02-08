@@ -1,7 +1,7 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
 const request = require('request')
-const author = "#𝑿𝑭𝒂𝒓"
+const author = "Zynfx"
 
 const film = (query) => {
 	return new Promise((resolve, reject) => {
